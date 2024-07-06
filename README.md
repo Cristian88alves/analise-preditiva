@@ -1,2 +1,2 @@
 # analise-preditiva
- essa e a analise dos obitos do df entre 2019 e 2023
+ Essa é a analise dos óbitos do df entre 2019 e 2023
